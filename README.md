@@ -1,4 +1,4 @@
-<img src="https://github.com/ItsNanoBird/ItsNanoBird/blob/main/assets/standard.gif" width="200">
+<img src="https://github.com/ItsNanoBird/ItsNanoBird/blob/main/assets/standard.gif" width="2000">
 ## Content/Apps/Games Creator
 
 <a href="https://the-unl.com" target="_blank">
