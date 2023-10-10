@@ -1,4 +1,4 @@
-[![Header](https://github.com/ItsNanoBird/ItsNanoBird/blob/main/assets/standard.gif)]
+![Header](https://github.com/ItsNanoBird/ItsNanoBird/blob/main/assets/standard.gif =2256x418)
 
 ## Content/Apps/Games Creator
 
