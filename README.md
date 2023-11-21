@@ -1,5 +1,5 @@
 <img src="https://github.com/ItsNanoBird/ItsNanoBird/blob/main/assets/standard.gif" width="2000">
-## I'm Developer
+I'm Developer
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
